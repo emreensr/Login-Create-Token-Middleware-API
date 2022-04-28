@@ -1,12 +1,6 @@
 ## SMS API
 
-Laravel kullanarak restful bir api geliştirmeni istiyoruz.
-ExampleSMS firması müşterilerine sms gönderim hizmeti sunan bir
-firmadır. Bu müşterilerin kendilerine ait kullanıcı adları ve
-şifreleri vardır. Müşteriler restful api kullanarak sms gönderimi
-yapabilir, sms raporlarını(kayıtlarını) görebilir, sms rapor
-detayını görebilir ve bu raporları tarih filtresine göre
-filtreleyebilir.
+Laravel RestFul Api (Login,Register,Create Token, List, Search)
 
 
 ### Projeyi ayağa kaldırmak için 
