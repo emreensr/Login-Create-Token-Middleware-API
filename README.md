@@ -1,16 +1,16 @@
-## SMS API
+## REST API WITH LARAVEL SANCTUM
 
-Laravel RestFul Api (Login,Register,Create Token, List, Search)
+REST API from using Laravel 8. İmplementing authentication using API keys with Laravel Sanctum.
+
+(Login,Register,Create Token, List, Search)
 
 
-### Projeyi ayağa kaldırmak için 
+### To run this project
 
-```
-composer install
+`composer install`
 
-php artisan key:generate
+`php artisan key:generate`
 
-php artisan serve
-```
+`php artisan serve`
 
-## Postman collection dosyası projenin içinde database klasörünün altındadır.
+### The Postman collection file is under the database folder in the project.
